@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "firstname": " raja",
+      "lastname": " ram",
+      "age": 24,
+      "class": 1,
+      "subject": " JAVA",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "firstname": "jagadeesh",
+      "lastname": " ram",
+      "age": 25,
+      "class": 1,
+      "subject": " JAVA",
+      "gender": "Male",
+      "id": 2
+    }
+  ]
+}
